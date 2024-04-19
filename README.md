@@ -2,3 +2,18 @@
 
 Concepts update soon 
 
+
+
+```
+Java Core
+Spring
+Spring_Boot
+Maven 
+Dockerization
+Deployment --- Render
+Testing    --- Cypress, TestNG, Selenium
+Maintainence
+Logging
+etc..
+
+```
